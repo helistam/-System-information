@@ -1,0 +1,1 @@
+/bin/cc -g CMakeFiles/Ncurses.dir/main.c.o CMakeFiles/Ncurses.dir/OS.c.o CMakeFiles/Ncurses.dir/Hardware.c.o CMakeFiles/Ncurses.dir/Network.c.o CMakeFiles/Ncurses.dir/USB.c.o -o Ncurses 

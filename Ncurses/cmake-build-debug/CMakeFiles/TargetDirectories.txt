@@ -1,0 +1,3 @@
+/home/user/kursach/Ncurses/cmake-build-debug/CMakeFiles/Ncurses.dir
+/home/user/kursach/Ncurses/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/kursach/Ncurses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
